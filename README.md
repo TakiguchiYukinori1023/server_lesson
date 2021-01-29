@@ -1,13 +1,13 @@
 # サーバーレッスン
 Linuxプラクティス
 ----------------
--mkdir
--touch
--&&
--cp
--mv
--rm
-->
-->>
--cat
--vi
+- mkdir
+- touch
+- &&
+- cp
+- mv
+- rm
+- >
+- >>
+- cat
+- vi
